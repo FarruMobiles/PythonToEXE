@@ -32,3 +32,9 @@ Have suggestions or found a bug? Feel free to open an **issue** or create a **pu
 ---
 
 ⭐ **If you find this tool helpful, consider starring the repository!** ⭐  
+
+---
+
+📌 Developed by **Farman Qureshi** 🚀
+
+The CEO of FarruMobiles YouTube Channel, FarruMobiles FB Page and FarruMobiles Website.
