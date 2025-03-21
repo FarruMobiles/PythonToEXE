@@ -19,7 +19,7 @@
 4. Click **Convert to EXE** – and you're done! 🎉  
 
 ## 🖼️ Screenshot  
-![PythonToEXE UI](https://your-image-link.com)  
+![PythonToEXE UI](https://github.com/FarruMobiles/PythonToEXE/blob/main/Screenshot1.png) 
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
