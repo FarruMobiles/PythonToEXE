@@ -3,7 +3,6 @@
 **PythonToEXE** is a powerful and easy-to-use tool that converts Python scripts (`.py`) into Windows executables (`.exe`). With a **modern GUI built on Tcl/Tk**, this tool simplifies the conversion process—no need for coding knowledge! Just select your Python file, adjust the settings, and create an EXE with a single click.  
 
 ## ✨ Features  
-✅ **No Installation Required** – Download and run the EXE instantly.  
 ✅ **Modern & Beautiful GUI** – Clean, simple, and user-friendly.  
 ✅ **One-Click Conversion** – Convert Python scripts to EXE effortlessly.  
 ✅ **Auto Path Detection** – No need to manually configure paths.  
